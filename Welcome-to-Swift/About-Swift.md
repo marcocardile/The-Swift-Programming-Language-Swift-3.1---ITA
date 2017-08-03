@@ -1,4 +1,5 @@
 <h1>Riguardo a Swift<h1>
+<div />
 <p>
 Swift è un nuovo linguaggio di programmazione per app iOS, macOS, watchOS, e tvOS, costruito sugli aspetti migliori del C e dell'Objective-C, senza le costrizioni della computabilità del linguaggio C.
 Swift adotta dei patterns di programmazione sicuri e aggiunge moderne features per rendere la programmazione più semplice, più flessibile e molto più divertente.
